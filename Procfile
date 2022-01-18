@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run millestone1_raditya.py
